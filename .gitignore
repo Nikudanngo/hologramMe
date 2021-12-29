@@ -1,9 +1,20 @@
 node_modules/
 
-video/
+
 
 
 
 package.json
 package-lock.json
-opening/opening_mirror.mp4
+# opening/opening_mirror.mp4
+video/support_mirror.mp4
+video/pc_mirror.mp4
+video/sad_mirrror.mp4
+video/stretch_mirror.mp4
+video/folk_mirror.mp4
+video/dancing_mirror.mp4
+video/clapping_mirror.mp4
+video/boring_mirror.mp4
+video/biohazard_mirror.mp4
+video/beatsaber_mirror.mp4
+video/angry_mirrror.mp4
